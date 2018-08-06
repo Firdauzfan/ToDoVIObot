@@ -2,7 +2,7 @@ import json
 import requests
 import time
 import urllib
-from dbhelper import DBHelper
+from dbhelper2 import DBHelper
 
 db = DBHelper()
 
